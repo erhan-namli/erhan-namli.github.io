@@ -1,0 +1,28 @@
+h2 {
+  /*-webkit-text-stroke: 2px black;*/
+  /*color: yellow;*/
+}
+
+h2 {
+  border-style: dotted;
+}
+
+h2 {
+  border-style: outset;
+  background-color: initial;
+}
+
+h1 {
+  max-width: 100%;
+  height: auto;
+  border-style: outset;
+}
+
+.lead {
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
